@@ -6,7 +6,7 @@ import nlp as n
 import numpy as np
 import random
 
-token = "NTIxMDY5MzI0NDI2MDE4ODUz.XnbC5g.0Hr98i24IPW0zSPUusLY8ZCsRhc"
+token = "YOUR KEY HERE"
 
 #client = commands.Bot(command_prefix='?', description='A bot that greets the user back.')
 client = discord.Client()
